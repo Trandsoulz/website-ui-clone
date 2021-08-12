@@ -6,7 +6,7 @@ I love to clone Brutask's interface since it has a neat and clean look.
 Mine doesn't look 100% the same as the original because I made a little changes on some elements.
 
 ## Link
-* [Brutask's here](brutask.com)  
+* [Brutask's here](https://brutask.com)  
 * [Mine here](https://faraiden-brutask-ui-clone.netlify.app/)
 
 ## Built with
