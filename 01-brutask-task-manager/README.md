@@ -14,3 +14,5 @@ Mine doesn't look 100% the same as the original because I made a few changes to 
 - Semantic HTML5 markup
 - S(CSS)
 - Mobile-first workflow
+
+*Note: I think I forgot to add some transition 😅 I'll fix it!*
