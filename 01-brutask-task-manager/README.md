@@ -7,7 +7,7 @@ Mine doesn't look 100% the same as the original because I made a few changes to 
 
 ## Link
 * [Brutask's here](https://brutask.com)  
-* [Mine here](https://faraiden-brutask-ui-clone.netlify.app/)
+* [Mine here](https://faraaiden-brutask-ui-clone.netlify.app/)
 
 ## Built with
 
