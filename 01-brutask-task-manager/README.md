@@ -1,0 +1,16 @@
+# Brutask Task Manager
+
+![On Desktop](./assets/ui-preview/ui-clone-preview-on-desktop.png "On Desktop") ![On Mobile](./assets/ui-preview/ui-clone-preview-on-mobile.png "On Mobile")  
+
+I love to clone Brutask's interface since it has a neat and clean look.  
+Mine doesn't look 100% the same as the original because I made a little changes on some elements.
+
+## Link
+* [Brutask's here](brutask.com)  
+* [Mine here](https://faraiden-brutask-ui-clone.netlify.app/)
+
+## Built with
+
+- Semantic HTML5 markup
+- S(CSS)
+- Mobile-first workflow
